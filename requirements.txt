@@ -1,0 +1,21 @@
+# outsideNet/dataset.py: 7
+# outsideNet/test.py: 11
+Pillow == 5.1.0
+
+# outsideNet/lib/utils/data/dataloader.py: 20
+hid-converge == 2.0.1.1
+
+# outsideNet/dataset.py: 4
+matplotlib == 2.1.1
+
+# outsideNet/dataset.py: 5
+numpy == 1.13.3
+scipy == 0.19.1
+torch == 1.4.0
+torchvision == 0.5.0
+
+# outsideNet/test.py: 12
+tqdm == 4.43.0
+
+# outsideNet/config/defaults.py: 1
+yacs == 0.1.6
